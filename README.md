@@ -44,6 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/NFC_logo.svg" height="40" alt="nfc logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" height="40" alt="capacitor logo" />
 </div>
 
 ###

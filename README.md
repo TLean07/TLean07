@@ -50,6 +50,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/NFC_logo.svg" height="40" alt="nfc logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" height="40" alt="capacitor logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
 </div>
 
 ###

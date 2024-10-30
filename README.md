@@ -57,6 +57,13 @@
   <img width="12" />
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TLean07&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TLean07&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 ###
 
 <h2 align="left">I also have experience with...</h2>

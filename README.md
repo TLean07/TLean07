@@ -55,6 +55,8 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
   <img width="12" />
+  <img alt="Logo device only" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" alt="python logo" />
+  <img width="12" />
 </div>
 
 ###

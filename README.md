@@ -49,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   
   <!-- Minecraft Modding -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Minecraft_logo.svg" height="40" alt="Minecraft" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java (Fabric)" />
   <img src="https://fabricmc.net/assets/logo.png" height="40" alt="Fabric" />
 </div>

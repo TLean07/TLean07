@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my digital universe!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi,+I'm+Leandro;+%F0%9F%91%89+Full+Stack+Dev+from+Brazil;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi,+I'm+Leandro;+%F0%9F%91%89+Full+Stack+Dev+from+Brazil;Passionate+about+code,+creativity+and+Minecraft+mods!;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---

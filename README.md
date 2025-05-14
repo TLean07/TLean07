@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>📚 Studying at Fiap</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>📚 Studying at Fiap</p>
 
 ###
 

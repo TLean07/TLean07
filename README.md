@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🧠 Currently learning **Python**
-- 🎓 Student at **FIAP School**
+- 🎓 Student at **FIAP**
 - 👾 Creating bugs since **2023** (and fixing some of them too!)
 - 💡 Passionate about tech, creativity, and lifelong learning
 

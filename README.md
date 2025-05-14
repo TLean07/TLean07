@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Currently learning **Python**
+- 🧠 Currently learning **Python and Java**
 - 🎓 Student at **FIAP**
 - 🐛 Creating bugs since **2023** (and fixing some of them too!)
 - 🎮 Minecraft modding enthusiast using **Fabric**

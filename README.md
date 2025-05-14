@@ -64,9 +64,6 @@
 ## 📬 Contact Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-afonso-silva-santos-junior-41119b280/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
   <a href="mailto:leandroafonsosilvasantosjr@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>

@@ -55,7 +55,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TLean07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=TLean07's+GitHub+Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TLean07&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLean07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 

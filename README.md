@@ -11,7 +11,7 @@
 
 - 🧠 Currently learning **Python & Java**
 - 🎓 Student at **FIAP**
-- 👾 Creating bugs since **2023** (and fixing some too!)
+- 👾 Creating bugs since **2021** (and fixing some too!)
 - 🛠️ Minecraft modder using **Fabric**
 - ⚡ Passionate about innovation, gaming & open source
 

@@ -2,15 +2,15 @@
 <h3 align="center">Welcome to my digital universe!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi,+I'm+TLean07;+%F0%9F%91%89+Full+Stack+Dev+from+Brazil;Passionate+about+code;+creativity+and+Minecraft+mods!;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi,+I'm+TLean07;+%F0%9F%91%89+Full+Stack+Dev;Passionate+about+code;+creativity+and+Minecraft+mods!;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 Currently learning **Python & Java**
-- 🎓 Student at **FIAP**
+- 🧠 Currently learning **Kotlin & Java**
+- 🎓 Student of **Software Engineering** 
 - 👾 Creating bugs since **2021** (and fixing some too!)
 - 🛠️ Minecraft modder using **Fabric**
 - ⚡ Passionate about innovation, gaming & open source

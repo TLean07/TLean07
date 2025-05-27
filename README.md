@@ -60,14 +60,4 @@
 
 ---
 
-## 📬 Contact Me
-
-<div align="center">
-  <a href="mailto:leandroafonsosilvasantosjr@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</div>
-
----
-
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i></p>

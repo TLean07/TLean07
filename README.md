@@ -14,6 +14,8 @@
 - 👾 Creating bugs since **2021** (and fixing some too!)
 - 🛠️ Minecraft modder using **Fabric**
 - ⚡ Passionate about innovation, gaming & open source
+![](https://komarev.com/ghpvc/?username=tlean07&color=blue)
+![Top Langs](https://sua-url-do-vercel.vercel.app/api/top-langs/?username=tlean07&layout=compact&langs_count=3)
 
 ---
 

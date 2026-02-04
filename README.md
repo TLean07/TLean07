@@ -85,6 +85,12 @@ const lewis = {
 <br/>
 
 <div align="center">
+<img src="https://github-readme-streak-stats-kappa-tan-33.vercel.app/?user=tlean07&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlean07&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="95%" alt="Activity Graph"/>
 </div>
 

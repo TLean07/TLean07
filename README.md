@@ -1,66 +1,113 @@
-![](https://komarev.com/ghpvc/?username=tlean07&color=blue)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0ea5e9,100:38bdf8&height=180&section=header&text=Lewis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Minecraft%20Modder&descSize=16&descAlignY=55"/>
 
-<h1 align="center">✨ Hello, world! ✨</h1>
-<h3 align="center">Welcome to my digital universe!</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+digital+playground;%F0%9F%9A%80+Building+cool+stuff+since+2021;%F0%9F%8E%AE+When+I'm+not+coding%2C+I'm+modding+Minecraft)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi,+I'm+Lewis;+%F0%9F%91%89+Full+Stack+Dev;Passionate+about+code;+creativity+and+Minecraft+mods!;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tlean07&style=for-the-badge&color=0ea5e9)
+[![GitHub followers](https://img.shields.io/github/followers/tlean07?style=for-the-badge&color=0ea5e9&labelColor=1a1b27)](https://github.com/tlean07)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+
+```typescript
+const lewis = {
+    role: "Full Stack Developer",
+    education: "Software Engineering Student 🎓",
+    location: "Brazil 🇧🇷",
+    currentFocus: ["Kotlin", "Java", "Minecraft Modding"],
+    funFact: "Creating bugs since 2021 — and fixing some too! 🐛",
+    
+    skills: {
+        languages: ["TypeScript", "JavaScript", "Python", "Java", "Kotlin"],
+        frontend: ["React", "Ionic", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Firebase", "MongoDB"],
+        tools: ["Git", "VS Code", "Figma", "Azure"],
+        hobby: ["Fabric Modding", "Game Development"]
+    },
+    
+    currentlyLearning: "Advanced Kotlin & Minecraft Mod Development",
+    askMeAbout: ["Web Dev", "Minecraft Mods", "Tech in general"]
+};
+```
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" />
 </p>
 
----
+### Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+</p>
 
-## 👨‍💻 About Me
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" />
+</p>
 
-- 🧠 Currently learning **Kotlin & Java**
-- 🎓 Student of **Software Engineering** 
-- 👾 Creating bugs since **2021** (and fixing some too!)
-- 🛠️ Minecraft modder using **Fabric**
-- ⚡ Passionate about innovation, gaming & open source
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure&theme=dark" />
+</p>
 
----
+### Specialties
+<p>
+  <a href="https://ionicframework.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="48" alt="Ionic"/></a>
+  &nbsp;&nbsp;
+  <a href="https://capacitorjs.com/"><img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" height="48" alt="Capacitor"/></a>
+  &nbsp;&nbsp;
+  <a href="https://fabricmc.net/"><img src="https://fabricmc.net/assets/logo.png" height="48" alt="Fabric MC"/></a>
+</p>
 
-## ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" />
-  <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-  <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" height="45" />
-  <img src="https://fabricmc.net/assets/logo.png" height="45" />
 </div>
 
----
+<br/>
 
-## 🛠️ I Also Work With
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</div>
-
----
-
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-three-tau-57.vercel.app/api?username=tlean07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats-three-tau-57.vercel.app/api/top-langs/?username=tlean07&layout=compact&theme=tokyonight&hide_border=true&langs_count=3" height="180"/>
+  <img src="https://github-readme-stats-three-tau-57.vercel.app/api?username=tlean07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-three-tau-57.vercel.app/api/top-langs/?username=tlean07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
 </div>
 
----
+<br/>
 
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlean07&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   "Code is like humor. When you have to explain it, it's bad."   ║
+ ║                                          — Cory House            ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+### 🤝 Let's Connect!
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0ea5e9,100:38bdf8&height=120&section=footer"/>

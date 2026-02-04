@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://stats-five-silk.vercel.app/api?username=tlean07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://stats-five-silk.vercel.app/api/top-langs/?username=tlean07&layout=compact&theme=tokyonight&hide_border=true&langs_count=3" height="180"/>
+  <img src="https://github-readme-stats-three-tau-57.vercel.app/api?username=tlean07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats-three-tau-57.vercel.app/api/top-langs/?username=tlean07&layout=compact&theme=tokyonight&hide_border=true&langs_count=3" height="180"/>
 </div>
 
 ---

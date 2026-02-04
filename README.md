@@ -75,6 +75,14 @@ const lewis = {
 
 <br/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tlean07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
@@ -85,7 +93,25 @@ const lewis = {
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlean07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlean07&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlean07/tlean07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tlean07/tlean07/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/tlean07/tlean07/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <br/>

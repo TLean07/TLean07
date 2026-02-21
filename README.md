@@ -24,7 +24,7 @@ const lewis = {
     funFact: "Creating bugs since 2021 — and fixing some too! 🐛",
     
     skills: {
-        languages: ["TypeScript", "JavaScript", "Python", "Java", "Kotlin"],
+        languages: ["TypeScript", "JavaScript", "Python", "Java", "Kotlin", "C++", "C#"],
         frontend: ["React", "Ionic", "Tailwind CSS", "Bootstrap"],
         backend: ["Node.js", "Firebase", "MongoDB"],
         tools: ["Git", "VS Code", "Figma", "Azure"],
@@ -44,7 +44,7 @@ const lewis = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cpp,cs&theme=dark" />
 </p>
 
 ### Frontend & Frameworks

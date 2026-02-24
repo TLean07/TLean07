@@ -20,6 +20,7 @@ const lewis = {
     role: "Full Stack Developer",
     education: "Software Engineering Student 🎓",
     location: "???",
+    nationality: british,
     currentFocus: ["Kotlin", "Java", "Minecraft Modding"],
     funFact: "Creating bugs since 2021 — and fixing some too! 🐛",
     

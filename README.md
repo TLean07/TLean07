@@ -28,7 +28,7 @@ const lewis = {
         languages: ["TypeScript", "JavaScript", "Python", "Java", "Kotlin", "C++", "C#"],
         frontend: ["React", "Ionic", "Tailwind CSS", "Bootstrap"],
         backend: ["Node.js", "Firebase", "MongoDB"],
-        tools: ["Git", "VS Code", "Figma", "Azure"],
+        tools: ["Git", "VS Code", "PyCharm", "IntelliJ", "Figma", "Azure"],
         hobby: ["Fabric Modding", "Game Development"]
     },
     
@@ -60,7 +60,7 @@ const lewis = {
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,figma,azure&theme=dark" />
 </p>
 
 ### Specialties
@@ -70,6 +70,8 @@ const lewis = {
   <a href="https://capacitorjs.com/"><img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" height="48" alt="Capacitor"/></a>
   &nbsp;&nbsp;
   <a href="https://fabricmc.net/"><img src="https://fabricmc.net/assets/logo.png" height="48" alt="Fabric MC"/></a>
+  &nbsp;&nbsp;
+  <a href="=https://www.blockbench.net"><img src="https://www.blockbench.net/images/logos/icon.png" height="48" alt="Fabric MC"/></a>
 </p>
 
 </div>
